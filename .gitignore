@@ -1,0 +1,6 @@
+*.sublime-settings
+debug
+obj
+*.vshost.exe*
+*.pdb
+
